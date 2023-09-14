@@ -45,12 +45,16 @@ div.scrollmenu {
     text-decoration: none;
   }
   .text {
-    background-color:rgb(72, 191, 242) ;
+    background-color:rgb(72, 191, 242, 0.6) ;
     width: 100%;
     text-align: center;
   }
   ul {
     text-shadow: #000 2px 0 4px;
+  }
+  h2, h3, h4, h5, h6 {
+    margin-left:10px;
+    margin-right:10px;
   }
   
   
