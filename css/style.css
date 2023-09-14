@@ -46,15 +46,11 @@ div.scrollmenu {
   }
   .text {
     background-color:rgb(72, 191, 242) ;
-    width: 500px;
+    width: 100%;
     text-align: center;
   }
-  
-  body {
-    background-image: url('Images/coding.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+  ul {
+    text-shadow: #000 2px 0 4px;
   }
   
   

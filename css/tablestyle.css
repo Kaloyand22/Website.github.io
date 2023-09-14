@@ -9,7 +9,7 @@ table, th, td {
     position: fixed;
     right: 0;
     bottom: 0;
-    width: 49%;
+    width: 23%;
     background-color:black;
     color: white;
     text-align: center;
@@ -22,5 +22,27 @@ table, th, td {
   progress[value] {
     width: 400px;
     height: 10px;
+    margin-left:400px; 
+    margin-right:500px;
   }
+  ul {
+    color:white;
+    text-shadow: #000 2px 0 4px;
+    background:transparent;
+  }
+  .table {
+    width:60%;
+    margin-left:500px; 
+    margin-right:500px;
+  }
+  .header{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 26%;
+    background-color:black;
+    color: white;
+    height:100%;
+  }
+  
  
