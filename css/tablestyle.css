@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  body {
+    background-color: pink;
+  }
+  .footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 49%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    height:100%;
+  }
+  tr:nth-child(even) {
+    background-color: palevioletred;
+  }
+
+  progress[value] {
+    width: 400px;
+    height: 10px;
+  }
+ 

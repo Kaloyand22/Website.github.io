@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    size: 100px;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    height:90%;
+    width:25%;
+    text-align: center;
+    color: black;
+}
+.link {
+    height:100%;
+    text-align: left;
+    width:20%;
+    float: left;
+    background: transparent;
+}
+a {
+    color:white;
+}
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  .text {
+    background-color:rgb(72, 191, 242) ;
+    width: 500px;
+    text-align: center;
+  }
+  body {
+    background-image: url('Images/coding.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  
