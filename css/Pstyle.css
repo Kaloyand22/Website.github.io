@@ -1,20 +1,19 @@
 body {
     background-color:rgb(251, 249, 249);
 }
-h1 {
+h1, h2, h3 {
     text-align: center;
 }
-h2 {
+h4 {
     text-align: center;
-}
-h3, h4 {
-    text-align: center;
+    font-size:130%;
 }
 .paragraph {
     text-align: center;
     width:50%;
     margin-left: auto;
     margin-right: auto;
+    font-size:150%;
 }
 a {
     color:black;
@@ -32,11 +31,11 @@ div {
     color: white;
     text-align: center;
     height:50%;
-  }
-  img {
+}
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 150px;
-  }
+}
   

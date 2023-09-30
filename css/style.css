@@ -4,6 +4,7 @@ h1 {
 
 p {
     text-align: center;
+    font-size: 140%;
 }
 img {
     display: block;
@@ -48,6 +49,7 @@ div.scrollmenu {
     background-color:rgb(72, 191, 242, 0.6) ;
     width: 100%;
     text-align: center;
+    font-size: 100%;
   }
   ul {
     text-shadow: #000 2px 0 4px;
@@ -55,6 +57,6 @@ div.scrollmenu {
   h2, h3, h4, h5, h6 {
     margin-left:10px;
     margin-right:10px;
+    font-size: 100%;
   }
-  
-  
+ 
