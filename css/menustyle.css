@@ -9,7 +9,6 @@ h1 {
   background-color:rgb(84, 84, 84);
   padding: 0px;
   margin: 0px;
-  
 }
 .navbar a {
   color:white;
@@ -23,18 +22,15 @@ h1 {
 }
 .navbar {
   margin-right:75%;
-
 }
 p {
   font-size: 20px;
 }
-
 .container {
   background-color: rgb(192, 192, 192);
   width: 80%;
   border-radius: 15px;
 }
-
 .skill {
   background-color: rgb(116, 194, 92);
   color: white;
@@ -43,11 +39,9 @@ p {
   font-size: 20px;
   border-radius: 15px;
 }
-
 .html {
   width: 0%;
 }
-
 .php {
   width: 60%;
 }
